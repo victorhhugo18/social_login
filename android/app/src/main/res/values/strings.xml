@@ -1,0 +1,10 @@
+<resources>
+    <!-- Adicione seu Facebook App ID aqui -->
+    <string name="facebook_app_id">1656694691541420</string>
+    
+    <!-- Nome do aplicativo -->
+    <string name="app_name">social_login</string>
+    
+    <!-- Protocolo de login do Facebook -->
+    <string name="fb_login_protocol_scheme">fb1656694691541420</string>
+</resources>
